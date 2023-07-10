@@ -21,5 +21,5 @@ uvicorn app.main:app --reload
  - [x] First Steps
  - [x] Path Parameters
  - [x] Query Parameters
- - [ ] Request Body
+ - [x] Request Body
  - [ ] Query Parameters and String Validations 
