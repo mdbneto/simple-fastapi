@@ -22,4 +22,22 @@ uvicorn app.main:app --reload
  - [x] Path Parameters
  - [x] Query Parameters
  - [x] Request Body
- - [ ] Query Parameters and String Validations 
+ - [x] Query Parameters and String Validations 
+ - [ ] Path Parameters and Numeric Validations
+ - [ ] Body - Multiple Parameters
+ - [ ] Body - Fields
+ - [ ] Body - Nested Models
+ - [ ] Declare Request Example Data
+ - [ ] Extra Data Types
+ - [ ] Cookie Parameters
+ - [ ] Header Parameters
+ - [ ] Response Model - Return Type
+ - [ ] Extra Models
+ - [ ] Response Status Code
+ - [ ] Form Data
+ - [ ] Request Files
+ - [ ] Request Forms and Files
+ - [ ] Handling Errors
+ - [ ] Path Operation Configuration
+ - [ ] JSON Compatible Encoder
+ - [ ] Body - Updates
